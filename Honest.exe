@@ -1,0 +1,3 @@
+echo @echo off > test.bat
+echo echo Hello from batch file >> test.bat
+pause
